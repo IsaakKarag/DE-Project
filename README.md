@@ -1,2 +1,2 @@
 # DE-Project
-This repository is for practice 
+This repository is for practice and fun 
