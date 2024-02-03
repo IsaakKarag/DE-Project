@@ -4,7 +4,7 @@ Welcome to my data engineering project - an end-to-end automated pipeline for an
 
 # Project Overview
 In this project, I've constructed a robust data pipeline that seamlessly collects, transforms, and analyzes electricity price data sourced directly from online sources. 
-Leveraging Python's Beautiful Soup, I've crafted a powerful web scraper that diligently fetches daily electricity prices from 2022-01-01 until today.
+Leveraging Python's Beautiful Soup, I've crafted a powerful web scraper that diligently fetches daily electricity prices across Europe from 2022-01-01 until today.
 
 
 # Infrastructure
